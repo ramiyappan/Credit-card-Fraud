@@ -2,9 +2,10 @@
 
 ## Files on the Repository
 
-  graphs ------------------------> Folder containing all plots/graphs.
+  graphs --------------------------> Folder containing all plots/graphs.
   
-  Exploring Sampling.ipynb -----> Notebook for exploring various undersampling, oversampling and combination of both techniques for dealing with imbalanced distributions.
+  Exploring Sampling.ipynb -----> Notebook for exploring various undersampling, oversampling and combination of both techniques for dealing <br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; with imbalanced distributions.
   
   code.ipynb ---------------------> MAIN file.
 
