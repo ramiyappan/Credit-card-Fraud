@@ -1,5 +1,7 @@
 # Credit card Fraud Detection
 
+Analyze and identify fraudulent credit card transactions using Ensemble models and Deep Neural networks in Pytorch.
+
 ## Files on the Repository
 
   `graphs` - Folder containing all plots/graphs.
