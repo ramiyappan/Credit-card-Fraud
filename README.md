@@ -1,4 +1,4 @@
-# Credit-card-Fraud
+# Credit card Fraud Detection
 
 ## Files on the Repository
 
